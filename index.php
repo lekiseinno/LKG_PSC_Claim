@@ -8,6 +8,7 @@
 	<title></title>
 	<link rel="stylesheet" href="">
 </head>
+
 <body>
 <form action="action/cliam_insert.php" method="post" enctype="multipart/form-data">
 	<div class="container-fluid" style="padding: 30px">
